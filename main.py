@@ -3,7 +3,9 @@
 import cv2
 import numpy as np
 import os
-
 import tkinter as tk
 
-# capture button 530 1770
+
+root = tk.Tk()
+
+root.mainloop()
